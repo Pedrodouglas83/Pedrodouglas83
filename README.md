@@ -1,6 +1,6 @@
 ### Olá meu nome Pedro ✌️🎸
 
-![Pedrodouglas83's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrodouglas83&show_icons=true&theme=merko)
+
 
 ## Tecnologias que estou estudando
 
@@ -13,7 +13,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </div><br/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
