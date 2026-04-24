@@ -1,5 +1,5 @@
 
-# Olá, eu sou o pedro 👋✌️🎸
+# Olá, eu sou o Pedro 👋✌️🎸
 
 🎧 Desenvolvedor apaixonado por tecnologia e música  
 💻 Focado em projetos para aprimorar meus conhecimentos   
